@@ -1,0 +1,15 @@
+{
+  "name": "build-without-main",
+  "version": "0.0.1",
+  "description": "Running steal-tools build without \"main\" property",
+  "main": "main.js",
+  "scripts": {
+    "build": "node build"
+  },
+  "author": "Bitovi",
+  "license": "MIT",
+  "devDependencies": {
+    "steal": "^1.5.0",
+    "steal-tools": "^1.3.1"
+  }
+}
