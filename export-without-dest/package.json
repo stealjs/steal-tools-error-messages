@@ -1,0 +1,15 @@
+{
+  "name": "export-without-dest",
+  "version": "0.0.1",
+  "description": "Using steal-tools export, missing \"dest\" property",
+  "main": "main.js",
+  "scripts": {
+    "export": "node export"
+  },
+  "author": "Bitovi",
+  "license": "MIT",
+  "devDependencies": {
+    "steal": "^1.5.0",
+    "steal-tools": "^1.3.1"
+  }
+}
