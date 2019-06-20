@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "build-without-main/package.json",
+        "export-without-dest/package.json"
+      ]
+    }
+  }
+}
